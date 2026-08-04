@@ -28,7 +28,7 @@ Initial tests confirmed that CL-20 delivered ~14% to 20% higher performance metr
 This is the main energy source: a tiny volume of solid CL-20 rapidly converts into thousands of times its volume in gas accompanied by tremendous heat release. The thermal expansion of these gaseous products drives a detonation velocity of ~9,600 m/s.
 
 ### Performance Metrics
-![Performance Metrics](Image 7-31-26 at 9.52AM.jpg)
+![Performance Metrics](pm.jpg)
 
 ### Primary Uses
 
